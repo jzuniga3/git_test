@@ -1,0 +1,10 @@
+h1 {
+    background-color: cyan;
+}
+p {
+    background: linear-gradient(45deg, #CCFFFF, #FFCCCC);
+    width: 800px;
+}
+body {
+    background-color: black;
+}
